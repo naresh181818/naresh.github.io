@@ -28,8 +28,8 @@
     <li><a href="https://github.com/your-username/your-other-project">Another Cool Project</a></li>
   </ul>
 
-  <h2>📫 Contact</h2>
-  <p>Email: yourname@gmail.com<br>
+  <h2>📫 6006695864</h2>
+  <p>Email: kumarnaresh18184@gmail.com<br>
      LinkedIn: <a href="https://linkedin.com/in/your-profile">Your LinkedIn</a></p>
 </body>
 </html>
